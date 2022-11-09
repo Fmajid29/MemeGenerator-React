@@ -85,5 +85,13 @@
 }
 
 #mimg {
-  width: 500px;
+  max-width: 90%;
+}
+
+.box {
+  width: 200px;
+  height: 100px;
+  border: 2px solid gray;
+  border-radius: 12px;
+  margin: 20px 20px;
 }
